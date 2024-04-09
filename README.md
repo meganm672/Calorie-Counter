@@ -8,4 +8,4 @@ I built this Calorie Counter Form from a turitoial on freeCodeCamp that goes ove
 ## Access this turtoial to do yourself!
 This tutorial is part of freeCodeCamp's Javascript Algorithims and Data Sctructures Course
 
-[Free Code Camp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[freeCodeCamp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
